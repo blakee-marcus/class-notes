@@ -15,7 +15,7 @@
 
 Here's an example of what the ```app.js``` file might look like, with a single route defined:
 
-```
+```javascript
 const express = require('express');
 const app = express();
 
@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
 To serve static files from the ```/public``` folder using the app.use method, you can use the built-in ```express.static``` middleware function. The middleware function will look for the requested file in the ```/public``` folder, and if it exists, it will serve the file to the client.  
 
 Here is an example of how you might use the ```app.use()``` and ```express.static()``` methods to serve static files from the ```/public``` folder:  
-```
+```javascript
 app.use(express.static('/public'));
 ```
 
@@ -40,7 +40,7 @@ To create a route that will serve the ```public/paths.html``` page, you can use 
 
 Here is an example of how you might use `app.get()` and `res.sendFile()` methods to serve up the `public/paths.html` page:  
 
-``` 
+```javascript 
 app.get('/paths', (req, res) =>
   res.sendFile(path.join(__dirname, 'public/paths.html'))
 );
