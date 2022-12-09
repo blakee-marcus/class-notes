@@ -1,5 +1,5 @@
 ## GET fetch() ##
-
+***
 In Express.js, a `GET` request can be handled using the `app.get()` method, which is used to bind a callback function to a specific route and HTTP verb. This callback function is then executed whenever a `GET` request is sent to the specified route.
 
 To fetch data from a server using Express.js, you can use the `fetch()` method. Here is an example of how to use `fetch()` to make a GET request to an Express.js server:
