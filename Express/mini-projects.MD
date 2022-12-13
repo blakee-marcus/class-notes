@@ -26,3 +26,4 @@ In the route handler for the wildcard route, the `res.status()` and `res.send()`
 
 You can also customize the wildcard route and the 404 page by using different route paths and response data. For example, you can use a different HTTP status code, such as 400 (Bad Request) or 500 (Internal Server Error), or send a custom response message or HTML page as the response.
 ***
+
