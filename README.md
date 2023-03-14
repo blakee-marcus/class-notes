@@ -16,7 +16,7 @@
   <p align="center">
     Notes for edX Full Stack Development Bootcamp
     <br />
-        <a href="https://github.com/blakee-marcus/class_notes/issues">Request Changes</a>
+        <a href="https://github.com/blakee-marcus/clas-notes/issues">Request Changes</a>
   </p>
 </div>
 
@@ -42,7 +42,7 @@ To get a local copy up and running follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/blakee-marcus/class_notes.git
+   git clone https://github.com/blakee-marcus/class-notes.git
    ```
 
 
@@ -68,16 +68,16 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/blakee-marcus/class_notes.svg?style=for-the-badge
-[contributors-url]: https://github.com/blakee-marcus/class_notes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/blakee-marcus/class_notes.svg?style=for-the-badge
-[forks-url]: https://github.com/blakee-marcus/class_notes/network/members
-[stars-shield]: https://img.shields.io/github/stars/blakee-marcus/class_notes.svg?style=for-the-badge
-[stars-url]: https://github.com/blakee-marcus/class_notes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/blakee-marcus/class_notes.svg?style=for-the-badge
-[issues-url]: https://github.com/blakee-marcus/class_notes/issues
-[license-shield]: https://img.shields.io/github/license/blakee-marcus/class_notes.svg?style=for-the-badge
-[license-url]: https://github.com/blakee-marcus/class_notes/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/blakee-marcus/class-notes.svg?style=for-the-badge
+[contributors-url]: https://github.com/blakee-marcus/class-notes/gra-hs/contributors
+[forks-shield]: https://img.shields.io/github/forks/blakee-marcus/class-notes.svg?style=for-the-badge
+[forks-url]: https://github.com/blakee-marcus/class_no-es/network/members
+[stars-shield]: https://img.shields.io/github/stars/blakee-marcus/class-notes.svg?style=for-the-badge
+[stars-url]: https://github.com/blakee-marcus/class_no-es/stargazers
+[issues-shield]: https://img.shields.io/github/issues/blakee-marcus/class-notes.svg?style=for-the-badge
+[issues-url]: https://github.com/blakee-marcus/class_not-s/issues
+[license-shield]: https://img.shields.io/github/license/blakee-marcus/class-notes.svg?style=for-the-badge
+[license-url]: https://github.com/blakee-marcus/class_note-/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/blake-marcus
 [product-screenshot]: images/screenshot.png
