@@ -16,7 +16,7 @@
   <p align="center">
     Notes for edX Full Stack Development Bootcamp
     <br />
-        <a href="https://github.com/blakee-marcus/clas-notes/issues">Request Changes</a>
+        <a href="https://github.com/blakee-marcus/class-notes/issues">Request Changes</a>
   </p>
 </div>
 
