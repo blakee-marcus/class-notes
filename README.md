@@ -11,7 +11,7 @@
 <div align="center">
   <p>&#58113<p>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Class Notes</h3>
 
   <p align="center">
     Notes for edX Full Stack Development Bootcamp
